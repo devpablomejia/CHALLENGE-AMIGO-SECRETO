@@ -40,8 +40,6 @@ Este proyecto tiene como objetivo desarrollar la logica, que permita añadir los
 
 ## 📁 Acceso al proyecto
 
-Clonar repositorio: https://github.com/devpablomejia/CHALLENGE-AMIGO-SECRETO.git
-
 ## :computer: Tecnologias usadas
 
 - javascript
