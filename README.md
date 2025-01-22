@@ -41,7 +41,8 @@ Este proyecto tiene como objetivo desarrollar la logica, que permita añadir los
 ## 📁 Acceso al proyecto
 
 Clonar repositorio: https://github.com/devpablomejia/CHALLENGE-AMIGO-SECRETO.git
-git page: [text](https://devpablomejia.github.io/CHALLENGE-AMIGO-SECRETO/)
+
+[git page](https://devpablomejia.github.io/CHALLENGE-AMIGO-SECRETO/)
 
 ## :computer: Tecnologias usadas
 
