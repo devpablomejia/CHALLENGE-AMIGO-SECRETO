@@ -125,6 +125,17 @@ button {
     background-color: #a1a1a1;
 }
 
+.button-clear{
+    background-color: var(--color-tertiary);
+    color: var(--color-text);
+    border-radius: 25px 25px 25px 25px;
+    margin-left: 10px;
+}
+
+.button-clear:hover {
+    background-color: #a1a1a1;
+}
+
 /* Listas */
 ul {
     list-style-type: none;
